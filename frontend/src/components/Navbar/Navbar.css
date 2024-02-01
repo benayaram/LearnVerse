@@ -1,0 +1,40 @@
+/* Add your additional styles here */
+
+header {
+  background-color: #222; /* Dark gray header background */
+  color: #fff; /* White text color */
+  padding: 10px 20px;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff; /* White link color */
+  font-weight: bold;
+}
+
+/* Add other styling for the brand/logo and navigation links as needed */

@@ -1,0 +1,74 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #fff; /* White background */
+    color: #333; /* Dark gray text color */
+  }
+  
+  header {
+    background-color: #222; /* Dark gray header background */
+    color: #fff; /* White text color */
+    padding: 10px 20px;
+    position: fixed;
+    z-index: 1000;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff; /* White link color */
+    font-weight: bold;
+  }
+  
+  main {
+    padding-top: 70px;
+  }
+  
+  section {
+    padding: 40px 20px;
+  }
+  
+  footer {
+    background-color: #222; /* Dark gray footer background */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  /* Additional styling for components */
+  
+  /* Hero Section styles */
+  #hero {
+    background-color: #3498db; /* Scientific blue background for hero section */
+    color: #fff; /* White text color for hero section */
+  }
+  
+  /* Features Section styles */
+  #features {
+    background-color: #f2f2f2; /* Light gray background for features section */
+  }
+  
+  /* Courses Section styles */
+  #courses {
+    background-color: #3498db; /* Scientific blue background for courses section */
+    color: #fff; /* White text color for courses section */
+  }
+  
+  /* Add more styles as needed */
+  

@@ -1,0 +1,11 @@
+/* Additional styles for BrandTitle component */
+
+.brand-title {
+    /* Add any specific styles for the container div if needed */
+  }
+  
+  .logoimage {
+ width: 100px; /* Set the maximum width for the logo image */
+    /* Add any other styling for the logo image if needed */
+  }
+  
